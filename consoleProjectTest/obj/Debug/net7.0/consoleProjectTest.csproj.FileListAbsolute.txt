@@ -1,0 +1,15 @@
+/Users/luisgarcia/src/net/consoleProjectTest/bin/Debug/net7.0/consoleProjectTest
+/Users/luisgarcia/src/net/consoleProjectTest/bin/Debug/net7.0/consoleProjectTest.deps.json
+/Users/luisgarcia/src/net/consoleProjectTest/bin/Debug/net7.0/consoleProjectTest.runtimeconfig.json
+/Users/luisgarcia/src/net/consoleProjectTest/bin/Debug/net7.0/consoleProjectTest.dll
+/Users/luisgarcia/src/net/consoleProjectTest/bin/Debug/net7.0/consoleProjectTest.pdb
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.csproj.AssemblyReference.cache
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.AssemblyInfoInputs.cache
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.AssemblyInfo.cs
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.csproj.CoreCompileInputs.cache
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.dll
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/refint/consoleProjectTest.dll
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.pdb
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/consoleProjectTest.genruntimeconfig.cache
+/Users/luisgarcia/src/net/consoleProjectTest/obj/Debug/net7.0/ref/consoleProjectTest.dll
